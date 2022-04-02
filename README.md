@@ -1,2 +1,1 @@
-# notion-clone
-Created with CodeSandbox
+# Practice with Tailwind
